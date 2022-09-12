@@ -1,1 +1,1 @@
-# Swift_Otel_Proje
+# Swift Hotel Demo App
